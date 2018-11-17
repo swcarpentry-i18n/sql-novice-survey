@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /aio/
 layout: page 
 root: .
 ---
